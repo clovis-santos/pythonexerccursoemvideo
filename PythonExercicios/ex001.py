@@ -6,5 +6,3 @@ print('Olá, Mundo!')
 
 #Apenas para testar nas aulas de GIT/GITHUB
 
-#Mais algumas alterações para testar o Revert
-
